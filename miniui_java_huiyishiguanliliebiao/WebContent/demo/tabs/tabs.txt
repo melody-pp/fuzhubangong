@@ -1,0 +1,5 @@
+﻿[
+	{title: "会议室管理", url: "../tabs/pages/page1.html", refreshOnClick: true},
+	{title: "预定选项管理", url: "../tabs/pages/page2.html", refreshOnClick: true},
+	{title: "基础设置", url: "../tabs/pages/page3.html", refreshOnClick: true}
+]

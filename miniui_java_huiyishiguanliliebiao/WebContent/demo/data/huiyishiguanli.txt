@@ -1,0 +1,73 @@
+{
+    "total": 55931,
+    "data": [{
+        "huiyishiname": "会议室A",
+        "dashamingcheng": "大厦A",
+        "address": "新华社媒体楼",
+        "apartment": "技术实验室",
+        "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    },
+    {
+        "huiyishiname": "会议室A",
+                "dashamingcheng": "大厦A",
+                "address": "新华社媒体楼",
+                "apartment": "技术实验室",
+                "action": "删除"
+    }]
+}

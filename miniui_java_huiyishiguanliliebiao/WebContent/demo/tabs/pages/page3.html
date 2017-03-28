@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" href="../../../scripts/miniui/themes/default/miniui.css">
+    <script src="../../../scripts/jquery-1.6.2.min.js"></script>
+    <script src="../../../scripts/miniui/miniui.js"></script>
+</head>
+<body>
+<p>会议室预定时间范围设置：（只有设置时间范围内才能预定会议室）</p>
+<p style="margin-left: 62px;">
+    <label for="date2$text" style="display: inline-block;">开始时间：</label><input id="date2"
+                                                                               class="mini-datepicker"
+                                                                               style="width:110px;display: inline-block;"
+                                                                               format="HH:mm"
+                                                                               showTime="true"/>
+    <label for="date3$text" style="display: inline-block;">结束时间：</label>
+    <input id="date3"
+                                                                               class="mini-datepicker"
+                                                                               style="width:110px;display: inline-block;"
+                                                                               format="HH:mm"
+                                                                               showTime="true"/>
+
+    <a class="mini-button">设置</a>
+</p>
+<script type="text/javascript">
+
+
+
+    var grid = mini.get("datagrid1");
+
+
+    function getData() { return "page3Data"}
+</script>
+</body>
+</html>
