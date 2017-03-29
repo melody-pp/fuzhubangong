@@ -1,0 +1,4 @@
+1、注册sourceTree  再输两个密码
+2、让同事fork我的github
+3、让同事pull我的github的代码
+4、让同事在本地切分支再改  然后push  在其github上merge request, 我确认
